@@ -21,6 +21,8 @@ My dataset came from crunchbase snapshot and looked at ~5,000 companies that had
 While the median time between birth and acquisition falls just shy of 5 years, selling your company in the "early days" is going to cost you.
  
 Companies that are founded and sold in less than 5 years have an avg sales price of $47 million dollars. 
+
+<img src="https://bryce-natale.github.io/assets/img/Sale_Price.png" width="600">
  
 While, if you can hold off a few more years and sell closer to 10 years old your avg sale price jumps up to $84 million. 
  
