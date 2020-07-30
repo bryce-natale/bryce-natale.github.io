@@ -16,7 +16,7 @@ More specifically, I wanted to look into how long it takes a company to go from 
 
 My dataset came from crunchbase snapshot and looked at ~5,000 companies that had been started and acquired prior to 2013.
  
-<img src="https://bryce-natale.github.io/assets/img/Acquisiton.png" width="600">
+<img src="https://bryce-natale.github.io/assets/img/Acquisiton2.png" width="600">
 
 While the median time between birth and acquisition falls just shy of 5 years, selling your company in the "early days" is going to cost you.
  
