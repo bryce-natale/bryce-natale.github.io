@@ -2,7 +2,7 @@
 layout: post
 title: Build Week Project 📊
 subtitle: "All over night success takes about 10 years" 
-tags: [test]
+tags: [data-science]
 comments: true
 ---
 
@@ -20,7 +20,7 @@ My dataset came from crunchbase snapshot and looked at ~5,000 companies that had
 
 While the median time between birth and acquisition falls just shy of 5 years, selling your company in the "early days" is going to cost you.
  
-<img src="https://bryce-natale.github.io/assets/img/Sale_Price.png" width="600">
+<img src="https://bryce-natale.github.io//assets/img/Sale%20price2.png" width="600">
 
 Turns out Jeff, was spot on. As long as you define success as $84 million dollars (on average). 
  
