@@ -14,6 +14,8 @@ Having just recently left the start-up world to pursue a more niche career in Da
  
 More specifically, I wanted to look into how long it takes a company to go from birth to acquisition and how much money is made along the way.
 
+<img src="https://bryce-natale.github.io/assets/img/Acquisiton.png" width="600">
+
  Turns out Jeff, was spot on. As long as you define success as $84 million dollars(on average). 
  
 My dataset came from crunchbase snapshot and looked at ~5,000 companies that had been started and acquired prior to 2013.
