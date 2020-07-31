@@ -22,11 +22,10 @@ While the median time between birth and acquisition falls just shy of 5 years, s
  
 <img src="https://bryce-natale.github.io//assets/img/Sale%20price2.png" width="600">
 
-Turns out Jeff, was spot on. As long as you define success as $84 million dollars (on average). 
+Turns out Jeff, was spot on. As long as you define success as $100 million dollars (on average). 
  
 Companies that are founded and sold in less than 5 years have an avg sales price of $47 million dollars. 
 
-While, if you can hold off a few more years and sell closer to 10 years old your avg sale price jumps up to $84 million. 
+While, if you can hold off a few more years and sell closer to 10 years old your avg sale price jumps up to $100 million. 
  
-The lesson to be learned? Patience is key plus a lot of hard work and you too could grow a million dollar company. 
-
+The lesson to be learned? It takes patience, a good idea and lot of hard work to build a big business. 
