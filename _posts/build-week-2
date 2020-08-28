@@ -1,0 +1,50 @@
+---
+layout: post
+title: Build Week Project 🤓
+subtitle: "Prediciting NFL Run & Pass Plays 🏈" 
+tags: [data-science]
+comments: true
+---
+
+This year (2020) has been full of the unexpected, but my favorite season is just around the corner. No, not Fall Season, Football Season!  
+
+Which got me to thinking, how could teams get an edge over each other during the game. 
+Then it hit me, would it be possible to predict whether a team was going to run a pass or run play before the snap. 
+
+Luckily, I was able to find a dataset from every single play that happened in the NFL from 2009 to 2017. 
+With over 100 columns and 300k rows this was a huge dataset but had everything I needed to start building a model.  
+
+Because I’m trying to predict either run or pass, we know that we will be using classification models such as logistic regression or any of the various tree models.  
+
+### Let’s set the stage.  
+
+We’ll use our most common class for our baseline, which is a “pass play” at 57%. Which is kind of surprising to me. I would have guessed run plays happen more often. 
+
+### The first lesson I learned: data leakage is a real thing and it’s sneaky.   
+
+Originally I fed my model just about all of the columns provided in the dataset, but quickly realized something was off when my accuracy scores we’re perfect. I discovered that there we’re feature columns that we’re almost identical to the target (i.e. yards after catch). 
+
+This is when I made the decision to switch to data that was on available before the snap of the ball.  
+
+Ultimately I ended up with 8 features.  
+
+Drive - the # of times the team has had the ball in the game 
+Quarter - what quarter of the game it is 
+Down - what down it is   
+Yards to go - the # of remaining yards until next 1st down 
+Yard Line - where on the field the ball is 
+Score Difference - the difference in the two teams score 
+Season - what year the game was played 
+Win Probability - how likely the team was at winning before the play  
+
+
+### Choosing a model 
+
+While building my first model I used logistic regression, which produced slightly above baseline accuracy tests of 64% on our validation set.  
+
+Next I wanted to see if our tree classifier would produce better results, sure enough it did. With a random forest classifier my accuracy tests jumped up to 66% accurate.  
+
+Lastly, I used XGboost to see if I could produce even better results. Which I did but only slightly better up to 67% accurate. 
+
+
+
