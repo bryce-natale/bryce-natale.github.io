@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Passionate about using data and analytics to identify and drive digital growth 📈
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I've spent the past five years growing a start-up from the ground up, being employee #2 gave me the chance to do a little bit of everything. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ultimately I fell in love with solving problems by using data and analytics. Currently I'm furthering my education of Data Science at Lambda School.  
