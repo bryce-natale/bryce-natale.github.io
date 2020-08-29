@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Week Project 📊
+title: Data Storytelling 📊
 subtitle: "All over night success takes about 10 years" 
 tags: [data-science]
 comments: true
