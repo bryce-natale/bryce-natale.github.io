@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Studying Data Science at Lambda School
+title: Data Scientist
 
 # Short description of your site
 description: Data Science & Big Ideas
@@ -13,10 +13,7 @@ author: Bryce Natale
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  LinkedIn: "https://www.linkedin.com/in/brycenatale/"
 
 # --- Logo --- #
 
@@ -38,7 +35,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "natale-bryce@lambdastudents.com"
+  email: "bryce-natale15@gmail.com"
   #facebook: deanattali
   github: bryce-natale
   twitter: brycenatale
